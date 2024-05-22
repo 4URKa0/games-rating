@@ -1,4 +1,4 @@
-const PATH_TO_RATING_FILE = "./datatest/rating.json";
+const PATH_TO_RATING_FILE = "./dataset/rating.json";
 
 const WEIGHT = {
   gameplay: 2,
@@ -6,4 +6,4 @@ const WEIGHT = {
   idea: 3,
 };
 
-module.exports = { PATH_TO_RATING_FILE };
+module.exports = { PATH_TO_RATING_FILE,WEIGHT };

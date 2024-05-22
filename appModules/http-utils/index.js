@@ -1,4 +1,4 @@
-const mimeTypes = require("./mime-tyeps");
+const mimeTypes = require("./mime-types");
 const staticFile = require("./static-file");
 const parseBody = require("./parse-body");
 
