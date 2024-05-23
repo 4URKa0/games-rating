@@ -16,6 +16,6 @@ const mimeTypes = {
     ".wasm": "application/wasm",
     ".ico": "image/x-icon",
     ".xlsx": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-  };
+};
   
-  module.exports = mimeTypes;
+module.exports = mimeTypes;
